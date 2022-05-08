@@ -5,7 +5,7 @@
 
 
 
-<video id="video" controls="" preload="">
+<video id="video" controls="" preload="metadata">
     <source id="mp4" src="广告+栅栏.mp4" type="video/mp4">
 </video>
 
