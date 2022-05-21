@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://vankoos.github.io/%E7%94%B5%E5%8A%A8%E9%97%A8%E5%92%8C%E9%97%A8%E7%A6%81%E6%90%AD%E9%85%8D/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://vankoos.github.io/categories/</loc><lastmod>2022-05-10T19:38:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>https://vankoos.github.io/%E9%80%9A%E9%81%93%E9%97%A8-%E6%95%88%E6%9E%9C%E5%9B%BE101/</loc><lastmod>2022-05-09T22:14:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://vankoos.github.io/categories/</loc><lastmod>2022-05-20T22:14:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://vankoos.github.io/en/categories/"
@@ -12,8 +12,8 @@
                     hreflang="zh-cn"
                     href="https://vankoos.github.io/categories/"
                     /></url><url>
-            <loc>https://vankoos.github.io/posts/</loc><lastmod>2022-05-10T19:38:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>https://vankoos.github.io/tags/</loc><lastmod>2022-05-10T19:38:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>https://vankoos.github.io/posts/</loc><lastmod>2022-05-20T22:14:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://vankoos.github.io/tags/</loc><lastmod>2022-05-20T22:14:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://vankoos.github.io/en/tags/"
@@ -22,7 +22,7 @@
                     hreflang="zh-cn"
                     href="https://vankoos.github.io/tags/"
                     /></url><url>
-            <loc>https://vankoos.github.io/</loc><lastmod>2022-05-10T19:38:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>https://vankoos.github.io/</loc><lastmod>2022-05-20T22:14:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://vankoos.github.io/en/"
@@ -31,9 +31,49 @@
                     hreflang="zh-cn"
                     href="https://vankoos.github.io/"
                     /></url><url>
+            <loc>https://vankoos.github.io/categories/installationmaintenance/</loc><lastmod>2022-05-20T22:14:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://vankoos.github.io/tags/%E9%80%9A%E9%81%93%E9%97%A8/</loc><lastmod>2022-05-20T22:14:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://vankoos.github.io/%E9%80%9A%E9%81%93%E9%97%A8-%E5%AE%9A%E5%88%B6%E6%AC%BE%E5%BC%8F%E5%B0%BA%E5%AF%B8%E5%92%8C%E9%A2%9C%E8%89%B2/</loc><lastmod>2022-05-20T22:14:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://vankoos.github.io/%E9%80%9A%E9%81%93%E9%97%A8-%E5%B9%B3%E5%BC%80%E9%97%A8%E8%A3%85%E8%B0%83%E8%AF%B4%E6%98%8E/</loc><lastmod>2022-05-20T22:14:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://vankoos.github.io/categories/selectioncustomization/</loc><lastmod>2022-05-20T22:14:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://vankoos.github.io/en/categories/selectioncustomization/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://vankoos.github.io/categories/selectioncustomization/"
+                    /></url><url>
+            <loc>https://vankoos.github.io/tags/%E9%97%A8%E7%A6%81/</loc><lastmod>2022-05-17T22:14:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://vankoos.github.io/categories/accesscontrolaccessories/</loc><lastmod>2022-05-17T22:14:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://vankoos.github.io/en/categories/accesscontrolaccessories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://vankoos.github.io/categories/accesscontrolaccessories/"
+                    /></url><url>
+            <loc>https://vankoos.github.io/%E9%80%9A%E9%81%93%E9%97%A8-%E9%97%A8%E7%A6%81%E6%94%AF%E6%9E%B6/</loc><lastmod>2022-05-17T22:14:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://vankoos.github.io/%E9%80%9A%E9%81%93%E9%97%A8-%E5%B9%B3%E5%BC%80%E9%97%A8%E5%B9%B3%E7%A7%BB%E9%97%A8%E6%91%86%E9%97%A8%E5%B8%B8%E8%A7%84%E6%AC%BE%E9%85%8D%E7%BD%AE%E5%92%8C%E5%B0%BA%E5%AF%B8/</loc><lastmod>2022-05-17T22:14:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://vankoos.github.io/tags/%E5%B9%BF%E5%91%8A%E9%97%A8/</loc><lastmod>2022-05-10T19:38:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>https://vankoos.github.io/categories/%E5%B9%BF%E5%91%8A%E9%97%A8/</loc><lastmod>2022-05-10T19:38:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>https://vankoos.github.io/%E5%B9%BF%E5%91%8A%E5%B0%8F%E9%97%A8/</loc><lastmod>2022-05-10T19:38:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>https://vankoos.github.io/tags/%E9%97%A8%E7%A6%81/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://vankoos.github.io/tags/%E9%80%9A%E9%81%93%E9%97%A8/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://vankoos.github.io/categories/%E9%80%9A%E9%81%93%E9%97%A8/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://vankoos.github.io/categories/other/</loc><lastmod>2022-05-10T19:38:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://vankoos.github.io/en/categories/other/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://vankoos.github.io/categories/other/"
+                    /></url><url>
+            <loc>https://vankoos.github.io/categories/picturesvideos/</loc><lastmod>2022-05-09T22:14:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://vankoos.github.io/en/categories/picturesvideos/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://vankoos.github.io/categories/picturesvideos/"
+                    /></url><url>
+            <loc>https://vankoos.github.io/%E7%94%B5%E5%8A%A8%E9%97%A8%E5%92%8C%E9%97%A8%E7%A6%81%E6%90%AD%E9%85%8D/</loc><lastmod>2021-05-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

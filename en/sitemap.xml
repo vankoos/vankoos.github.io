@@ -2,6 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://vankoos.github.io/en/categories/accesscontrolaccessories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://vankoos.github.io/categories/accesscontrolaccessories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://vankoos.github.io/en/categories/accesscontrolaccessories/"
+                    /></url><url>
             <loc>https://vankoos.github.io/en/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -10,6 +19,33 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://vankoos.github.io/en/categories/"
+                    /></url><url>
+            <loc>https://vankoos.github.io/en/categories/other/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://vankoos.github.io/categories/other/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://vankoos.github.io/en/categories/other/"
+                    /></url><url>
+            <loc>https://vankoos.github.io/en/categories/picturesvideos/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://vankoos.github.io/categories/picturesvideos/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://vankoos.github.io/en/categories/picturesvideos/"
+                    /></url><url>
+            <loc>https://vankoos.github.io/en/categories/selectioncustomization/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://vankoos.github.io/categories/selectioncustomization/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://vankoos.github.io/en/categories/selectioncustomization/"
                     /></url><url>
             <loc>https://vankoos.github.io/en/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
